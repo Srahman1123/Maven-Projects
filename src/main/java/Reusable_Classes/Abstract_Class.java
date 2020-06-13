@@ -13,7 +13,7 @@ import java.lang.reflect.Method;
 
 public class Abstract_Class {
 
-
+    //new changes to Abstract class 
     //you need to set the global variables as public static in your order
     // to be used on your @test classes
 
