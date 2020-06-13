@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.lang.reflect.Method;
 
 public class Abstract_Class {
-
+// add line
     //new changes to Abstract class _>
     //you need to set the global variables as public static in your order
     // to be used on your @test classes
